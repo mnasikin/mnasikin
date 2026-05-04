@@ -1,5 +1,3 @@
-# mnasikin
-
 ```bash
 $ whoami
 > builder. breaker. fixer.
